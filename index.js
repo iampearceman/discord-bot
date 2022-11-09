@@ -28,7 +28,7 @@ client.on('threadCreate', async (channel) => {
 
   channel.send({ 
     content: 
-    'Thanks for posting, one of the <@&949961460384157746> or <@&986960430528331776> will address the matter as soon as possible :)'
+    'Thanks for posting, one of the <@&949961460384157746> or <@&986960430528331776> will address the matter as soon as possible'
   });
 });
 
